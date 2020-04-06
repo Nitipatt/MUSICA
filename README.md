@@ -1,2 +1,2 @@
 # MUSICA
-An Open Source Discord Music Bo
+An Open Source Discord Music Bot
